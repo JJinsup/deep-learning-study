@@ -7,7 +7,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-12.9-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 이 레포지토리는 **Deep Learning Frameworks (PyTorch & TensorFlow)** 의 이론과 실습 코드를 정리한 아카이브입니다.
-* **PyTorch:** [혁펜하임](https://www.youtube.com/@hyukpen) 강의 기반의 기초 및 심화 구현
+* **PyTorch:** [혁펜하임](https://youtube.com/playlist?list=PL_iJu012NOxdhFmM2aw6bwpZTMFdsPxws&si=5OaIx4Q_GKEy7V-F) 인스톨! 파이토치 기반의 기초 및 심화 구현
 * **TensorFlow:** 공식 가이드 및 튜토리얼 기반 실습
 <br>
 
@@ -50,14 +50,14 @@ deep-learning-study/
 
 | Chapter | Topic | Status | Note |
 | :---: | :--- | :--- | :---: |
-| 01. Syntax | Env Setup | Conda 환경 구축 및 GitHub 연동 | ✅ |
-| 02. Linear | Basic | 즉시 실행 | 🏃 |
-| 03. Training | ... | ... | 🔒 |
-| 04. CNN | Basic | 즉시 실행 | 🏃 |
-| 05. Adv | Basic | 즉시 실행 | 🏃 |
+| 01. Syntax | 텐서 연산, 차원 조작(View/Reshape), Autograd | ✅ |  |
+| 02. Linear | 선형 회귀, 이진 분류, Optimizer 수동 구현 | 🏃 |  |
+| 03. Training | Dataset/DataLoader, Custom Module, Dropout | 🔒 |  |
+| 04. CNN | Conv2d, Pooling, Augmentation, VGG Transfer | 🔒 |  |
+| 05. Adv | nn.ModuleList, Parameter Control | 🔒 |  |
 
 
 <br>
 
 ---
-_Powered by TensorFlow 2.16+_
+_Powered by PyTorch & TensorFlow on Server_
